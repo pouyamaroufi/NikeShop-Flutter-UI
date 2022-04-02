@@ -1,7 +1,7 @@
 import 'dart:ui';
-
 import 'package:animations/animations.dart';
 import 'package:flutter/material.dart';
+import 'package:nikeshop/Screen/explore_screen.dart';
 import '../../Screen/home_screen.dart';
 import '../../Theme/color.dart';
 import '../Theme/size_config.dart';
@@ -17,7 +17,7 @@ class _DashboardState extends State<Dashboard> {
   int pageIndex = 0;
   List<Widget> pageList = <Widget>[
     const HomeScreen(),
-    const HomeScreen(),
+    const ExploreScreen(),
     const HomeScreen(),
     const HomeScreen(),
   ];

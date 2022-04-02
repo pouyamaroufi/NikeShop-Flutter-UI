@@ -6,7 +6,7 @@ import './color.dart';
 
 ThemeData theme() {
   return ThemeData(
-    fontFamily: GoogleFonts.pacifico().fontFamily,
+    fontFamily: GoogleFonts.bebasNeue().fontFamily,
     appBarTheme: appBarTheme(),
     inputDecorationTheme: inputDecorationTheme(),
     scaffoldBackgroundColor: Colors.white,
