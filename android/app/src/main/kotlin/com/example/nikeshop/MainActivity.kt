@@ -1,0 +1,6 @@
+package com.example.nikeshop
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
