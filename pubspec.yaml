@@ -29,6 +29,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  animations: ^2.0.0
+  get: ^4.6.1
+  avatar_glow: ^2.0.1
+  step_progress_indicator: ^1.0.1
+  flutter_staggered_animations: ^1.0.0
+  carousel_slider: ^4.0.0
+  url_launcher: ^6.0.6
+  animated_text_kit: ^4.2.1
+  shared_preferences: ^2.0.6
+  google_fonts: ^2.3.1
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -59,6 +69,24 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   # assets:
+  assets:
+    - assets/images/shoe-01.webp
+    - assets/images/shoe-02.webp
+    - assets/images/shoe-03.webp
+    - assets/images/shoe-04.webp
+    - assets/images/shoe-05.webp
+    - assets/images/shoe-06.webp
+    - assets/images/nike.webp
+    - assets/images/start.webp
+    - assets/icons/Shopping-bag.webp
+    - assets/icons/home.webp
+    - assets/icons/cart.webp
+    - assets/icons/like.webp
+    - assets/icons/profile.webp
+    - assets/icons/home-off.webp
+    - assets/icons/cart-off.webp
+    - assets/icons/like-off.webp
+    - assets/icons/profile-off.webp
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
