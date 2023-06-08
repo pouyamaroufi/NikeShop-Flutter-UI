@@ -15,6 +15,8 @@ Custom-designed icons and graphics
 Animated transitions and effects
 Material Design components such as buttons, cards, and text fields
 
+💡 Notice: I still workingon this repo, I'll finished soon
+
 Contributing
 Contributions to the UI Concept App are welcome. To contribute, follow these steps:
 
