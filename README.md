@@ -24,5 +24,4 @@ Fork the repository
 Create a new branch for your feature or bug fix
 Write and test your code
 Submit a pull request
-License
-The UI Concept App is licensed under the MIT license. See LICENSE for more details.
+
