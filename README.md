@@ -1,16 +1,26 @@
-# nikeshop
+# Nike Shop UI App
 
-A new Flutter project.
+This project include blured Appbar
 
-## Getting Started
+## YouTube Video in Link Below
 
-This project is a starting point for a Flutter application.
+👇👇👇👇
+https://www.youtube.com/watch?v=sESnF6ITxgk
 
-A few resources to get you started if this is your first Flutter project:
+Features
+The UI Concept App includes the following features:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Responsive layout design that adapts to different screen sizes and orientations
+Custom-designed icons and graphics
+Animated transitions and effects
+Material Design components such as buttons, cards, and text fields
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contributing
+Contributions to the UI Concept App are welcome. To contribute, follow these steps:
+
+Fork the repository
+Create a new branch for your feature or bug fix
+Write and test your code
+Submit a pull request
+License
+The UI Concept App is licensed under the MIT license. See LICENSE for more details.
